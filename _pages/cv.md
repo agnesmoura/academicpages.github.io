@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Currículo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Cirurgiã-Dentista, Universidade Federal do Ceará, 2022
+* 
+* Atualização em Cuidado em saúde bucal para pessoas em situações de urgências odontológicas, UNASUS/UFMA, 2023
+* Pós-graduanda em Gestão Hospitalar e Sistemas de Saúde, MBA, UNINASSAU
 
 Work experience
 ======
