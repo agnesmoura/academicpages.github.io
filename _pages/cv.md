@@ -66,11 +66,11 @@ Publications
   
 Projetos de concluídos
 ======
-* INCICIAÇÃO CIENTÍFICA - PREVALÊNCIA DE ANOMALIAS DENTÁRIAS EM PACIENTES COM FISSURAS OROFACIAIS ATENDIDOS EM UM CENTRO ESPECIALIZADO DE FORTALEZA-CE: ESTUDO RETROSPECTIVO, 2021-2022
+* INICIAÇÃO CIENTÍFICA - PREVALÊNCIA DE ANOMALIAS DENTÁRIAS EM PACIENTES COM FISSURAS OROFACIAIS ATENDIDOS EM UM CENTRO ESPECIALIZADO DE FORTALEZA-CE: ESTUDO RETROSPECTIVO, 2021-2022
  
-* INCICIAÇÃO CIENTÍFICA - Qualidade de Vida e Perfil Socioeconômico de Cuidadores de Pacientes com Fissuras Orofaciais Associadas a Anomalias Congênitas Maiores, 2020-2021
+* INICIAÇÃO CIENTÍFICA - Qualidade de Vida e Perfil Socioeconômico de Cuidadores de Pacientes com Fissuras Orofaciais Associadas a Anomalias Congênitas Maiores, 2020-2021
 
-* INCICIAÇÃO CIENTÍFICA - Avaliação de Qualidade de Vida, Condição Econômica Familiar e Nível de Escolaridade de Cuidadores de Pacientes com Necessidades Especiais do Projeto SEMENTE, 2019-2020
+* INICIAÇÃO CIENTÍFICA - Avaliação de Qualidade de Vida, Condição Econômica Familiar e Nível de Escolaridade de Cuidadores de Pacientes com Necessidades Especiais do Projeto SEMENTE, 2019-2020
 
 * EXTENSÃO - PROMOVENDO SORRISOS, 2017-2019
 
