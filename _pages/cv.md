@@ -64,18 +64,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Projetos de concluídos
 ======
 * INCICIAÇÃO CIENTÍFICA - PREVALÊNCIA DE ANOMALIAS DENTÁRIAS EM PACIENTES COM FISSURAS OROFACIAIS ATENDIDOS EM UM CENTRO ESPECIALIZADO DE FORTALEZA-CE: ESTUDO RETROSPECTIVO, 2021-2022
