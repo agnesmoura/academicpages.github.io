@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  Você pode encontrar meus trabalhos publicados no <u><a href="http://lattes.cnpq.br/2049370596015225">meu perfil do currículo Lattes</a>.</u>
 {% endif %}
 
 {% include base_path %}
